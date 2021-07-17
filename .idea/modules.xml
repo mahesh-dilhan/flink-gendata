@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sensergen.iml" filepath="$PROJECT_DIR$/.idea/modules/sensergen.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sensergen-build.iml" filepath="$PROJECT_DIR$/.idea/modules/sensergen-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/iot.iml" filepath="$PROJECT_DIR$/.idea/modules/iot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/iot-build.iml" filepath="$PROJECT_DIR$/.idea/modules/iot-build.iml" />
     </modules>
   </component>
 </project>
